@@ -1,1 +1,1 @@
-web: gunicorn lza_summarizer:app
+web: gunicorn lza_summarizer:lza_summarizer_app
