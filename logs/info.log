@@ -1,0 +1,54 @@
+2022-02-01 16:11:20,203 lza_summarizer:<module>:line 65 [INFO] - application is started.
+2022-02-01 16:12:01,696 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:12:01,697 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:12:05,164 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:12:05,165 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 16:25:48,162 lza_summarizer:<module>:line 65 [INFO] - application is started.
+2022-02-01 16:26:03,416 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:26:03,417 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:26:05,234 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:26:05,235 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 16:26:40,029 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:26:40,030 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:26:43,126 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:26:43,128 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 16:27:56,018 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:27:56,019 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:27:58,606 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:27:58,608 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 16:29:28,539 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:29:28,542 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:29:30,810 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:29:30,812 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 16:32:58,733 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:32:58,735 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:33:02,207 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:33:02,209 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 16:35:30,436 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:35:30,436 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:35:33,052 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:35:33,054 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 16:45:01,063 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:45:01,065 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:45:02,258 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:45:02,258 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 16:48:29,428 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:48:29,428 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:48:31,563 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:48:31,563 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 16:50:35,289 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:50:35,289 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:50:35,705 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:50:35,705 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 16:58:14,888 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 16:58:14,889 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 16:58:15,406 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 16:58:15,406 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 17:00:07,309 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 17:00:07,309 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 17:00:07,757 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 17:00:07,758 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
+2022-02-01 17:00:59,824 lza_summarizer:post:line 34 [INFO] - server has received a rest api request from client.
+2022-02-01 17:00:59,824 lza_summarizer:post:line 50 [INFO] - prepare to start summarization
+2022-02-01 17:01:00,323 lza_summarizer:post:line 54 [INFO] - summarizing....
+2022-02-01 17:01:00,323 lza_summarizer:post:line 56 [INFO] - content has been summarized and responded to client.
